@@ -1,0 +1,6 @@
+{
+  "name": "AI Network Security Monitor",
+  "description": "An AI-powered network security monitoring system featuring packet capture simulation, ML threat detection, RL mitigation agent, interactive security dashboard, and Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
