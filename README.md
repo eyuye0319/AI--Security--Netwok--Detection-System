@@ -1,3 +1,18 @@
+
+
+
+
+<img width="1806" height="833" alt="image" src="https://github.com/user-attachments/assets/7183403f-984d-41a3-b2cb-a63b9de5357d" />
+
+
+<img width="1842" height="856" alt="image" src="https://github.com/user-attachments/assets/f1faf226-bc21-4a5a-b152-a89f16e0145d" />
+
+<img width="1720" height="711" alt="image" src="https://github.com/user-attachments/assets/f8372832-eb6e-4d1b-ac84-df876843e4ce" />
+
+<img width="1828" height="717" alt="image" src="https://github.com/user-attachments/assets/e1b77880-a180-4393-9d29-b5bd2d8e1469" />
+
+
+
 # 🛡️ AegisSec AI-NIDS: AI-Powered Network Intrusion Detection & Response Platform
 
 ![AegisSec Architecture Banner](https://img.shields.io/badge/AegisSec-AI--NIDS-0A0C10?style=for-the-badge&logo=shield&logoColor=3B82F6)
