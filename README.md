@@ -178,7 +178,6 @@ Includes full production Python source files accessible directly via the Codebas
 - `GET /api/auth/me`: Verifies active JWT token and returns user profile metadata.
 
 
-<img width="947" height="591" alt="image" src="https://github.com/user-attachments/assets/0a2a4d67-89c5-4edf-aa2b-c0a6a30663be" />
 
 ## 🛡️ License & Security Disclaimer
 
